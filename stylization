@@ -1,0 +1,107 @@
+body {
+    font-family: 'Monaco', monospace;
+    min-height: 800px;
+    background-image: url(https://s2.glbimg.com/iCE3BjaD3jNVpdLSG6AEsjgn9FQ=/1080x608/top/smart/s.glbimg.com/po/tt/f/original/2013/05/29/pokemon-deluge-liberar-mapas.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .container {
+    align: center;
+    padding: 0px;
+  }
+  
+  .page-title {
+    color: #000000;
+    width: 400px;
+    align: center;
+    padding: 0px;
+    margin: 0px;
+}
+  
+  .page-logo {
+    width: 100px;
+    top: 20x;
+  }
+
+  .gameboy {
+    width: 75vw;
+    height:80vh;
+    background-size: 325px;
+    left: 12%;
+    background-image: url('https://i.pinimg.com/564x/24/04/91/2404918faac44d214bbd657468b43cc0.jpg');
+    background-position: center;
+    position: absolute;
+    background-repeat: no-repeat;
+}
+  
+  #choose {
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    color: white;
+    top: 210px;
+    left: calc(50% - 140px);
+    width: 285px;
+    text-align:center;
+}
+
+#choice {
+    position: absolute;
+    font-size:16px;
+    font-weight:bold;
+    top: 305px;
+    left: calc(50% - 72.5px);
+    width: 145px;
+    text-align:center;
+    border-radius: 8px;
+}
+  
+#button {
+    position: absolute;
+    font-size:16px;
+    font-weight:bold;
+    background-color: silver;
+    top: 335px;
+    left: calc(50% - 25px);
+    width: 50px;
+    text-align:center;
+    border-radius: 10px;
+}
+
+#pokemon {
+    position: absolute;
+    top: 410px;
+    left: calc(50% - 35px);
+    width: 70px;
+    border-radius:80px;
+}
+
+.ash {
+    top: 170px;
+    left: 11.9%;
+    background-image: url(https://cdn.dribbble.com/users/258358/screenshots/1729129/choice.png?compress=1&resize=400x300);
+    background-size: 300px;
+    background-position: center;
+    position: absolute;
+    background-repeat: no-repeat;
+    width: 75vw;
+    height:80vh;
+}
+
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
+
+.footer {
+  color: white;
+  border: gray solid 1.5px;
+  margin: 600px 500px 0px 500px;
+  background-color: #4682B4;
+}
