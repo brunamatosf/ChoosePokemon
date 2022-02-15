@@ -43,7 +43,7 @@ body {
     font-size: 20px;
     font-style: normal;
     color: white;
-    top: 210px;
+    top: 250px;
     left: calc(50% - 140px);
     width: 285px;
     text-align:center;
@@ -53,7 +53,7 @@ body {
     position: absolute;
     font-size:16px;
     font-weight:bold;
-    top: 305px;
+    top: 340px;
     left: calc(50% - 72.5px);
     width: 145px;
     text-align:center;
@@ -65,7 +65,7 @@ body {
     font-size:16px;
     font-weight:bold;
     background-color: silver;
-    top: 335px;
+    top: 370px;
     left: calc(50% - 25px);
     width: 50px;
     text-align:center;
